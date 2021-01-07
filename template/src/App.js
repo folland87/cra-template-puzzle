@@ -11,7 +11,7 @@ export default () => (
     <ThemeContextProvider>
       <GlobalStyle />
       <ToastContextProvider position="top-center">
-        <Suspense fallback={<Spinner size={100} />}>
+        <Suspense fallback={<Spinner size={200} />}>
           <Route exact path="/" component={Home} />
         </Suspense>
       </ToastContextProvider>
