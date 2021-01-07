@@ -1,6 +1,6 @@
 {
   "name": "@folland87/cra-template-puzzle",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "private": false,
   "description": "A create react app template to boostrap a puzzle ready application.",
   "author": "folland87",
